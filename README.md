@@ -1,5 +1,7 @@
 # image-preprocessing
 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+
 Basic methods used in image preprocessing
 
 ## 1. Blur:
